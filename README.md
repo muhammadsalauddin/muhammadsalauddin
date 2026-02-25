@@ -209,7 +209,7 @@ daily_routine:
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=salauddinx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=salauddinx&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6f00&currStreakLabel=58a6ff" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=salauddinx&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6f00&currStreakLabel=58a6ff" />
 
 <br/>
 
@@ -307,7 +307,57 @@ graph LR
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/salauddinx/salauddinx/output/github-contribution-grid-snake-dark.svg)
+<!-- ⚠️ To enable the snake animation, add the GitHub Action workflow below to your profile repo -->
+<!-- Create: .github/workflows/snake.yml in your salauddinx/salauddinx repo -->
+<!-- Then the snake SVG will auto-generate at the path below -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salauddinx/salauddinx/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salauddinx/salauddinx/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/salauddinx/salauddinx/output/github-snake-dark.svg" />
+</picture>
+
+<details>
+<summary>📋 <b>Click here</b> — Setup instructions for the snake animation</summary>
+<br/>
+
+Create the file `.github/workflows/snake.yml` in your **salauddinx/salauddinx** repo with:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: salauddinx
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then go to **Actions** tab → **Generate Snake** → **Run workflow** to trigger it the first time.
+
+</details>
 
 </div>
 
