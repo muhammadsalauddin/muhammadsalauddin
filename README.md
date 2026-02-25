@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Zia Uddin
+## Hi there 👋 I'm Muhammad Sala Uddin
 
 🚀 Full-Stack Developer | AI System Builder | SaaS Architect  
 
@@ -69,9 +69,9 @@
 ---
 
 ### 📫 How to reach me
-- 📧 Email: your-email@example.com  
-- 🌐 Website: https://yourwebsite.com  
-- 💼 LinkedIn: your-link  
+- 📧 Email: info@salauddin.co.uk  
+- 🌐 Website: https://salauddin.co.uk  
+- 💼 LinkedIn: https://www.linkedin.com/in/salauddinx/
 
 ---
 
