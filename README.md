@@ -1,15 +1,16 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d47a1&height=220&section=header&text=Muhammad%20Sala%20Uddin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20System%20Builder%20%7C%20SaaS%20Architect&descSize=18&descAlignY=55&descColor=58a6ff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d47a1&height=220&section=header&text=Muhammad%20Sala%20Uddin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20%40%20Torka%20Tech%20%7C%20AI%20System%20Builder%20%7C%20SaaS%20Architect&descSize=18&descAlignY=55&descColor=58a6ff" width="100%" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9A%80+Building+AI-Powered+SaaS+Products;%F0%9F%8C%8D+Connecting+Businesses+Across+Borders;%E2%9A%99%EF%B8%8F+Automating+Everything+That+Can+Be+Automated;%F0%9F%8E%B5+Code+%2B+Creativity+%3D+Digital+Ecosystems" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9A%80+Founder+%40+Torka+Tech+%E2%80%94+AI+Website+Builder;%F0%9F%A4%96+Building+AI-Powered+SaaS+Products;%E2%9A%99%EF%B8%8F+Automating+Everything+That+Can+Be+Automated;%F0%9F%8E%B5+Code+%2B+Creativity+%3D+Digital+Ecosystems" alt="Typing SVG" /></a>
 
 <!-- Profile Badges -->
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salauddinx&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+[![Torka Tech](https://img.shields.io/badge/🚀_Torka.tech-AI%20Website%20Builder-ff6f00?style=for-the-badge)](https://torka.tech)
 [![Website](https://img.shields.io/badge/Website-salauddin.co.uk-0d47a1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://salauddin.co.uk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salauddinx/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@salauddin.co.uk)
@@ -24,14 +25,15 @@
 name: Muhammad Sala Uddin
 location: "🇬🇧 United Kingdom"
 current_role: "Full-Stack Developer & SaaS Architect"
-company: "Ali Trade Global"
+company: "Torka Tech Limited"
+website: "https://torka.tech"
 education: "Self-taught Developer & Continuous Learner"
 
 currently_building:
+  - "Torka.tech — AI Website Builder Platform"
   - "AI-Powered Recruitment & Applicant Matching System"
   - "Freelance Marketplace (Django + React)"
   - "Automation-first SaaS Products"
-  - "Global Trade Platform"
 
 passions:
   - "Turning complex problems into elegant solutions"
@@ -80,10 +82,10 @@ daily_routine:
 </td>
 <td width="50%">
 
-### 🌍 Ali Trade Global Platform
-> An international trade platform supporting import/export, e-commerce, wholesale supply, and travel services across borders.
+### 🌍 Torka.tech — AI Website Builder
+> An AI-powered website builder that lets anyone create stunning, professional websites in minutes — no coding required. Smart templates, AI content generation, and one-click deployment.
 >
-> **Stack:** HTML5 · CSS3 · JavaScript · Bootstrap
+> **Stack:** Django · React · AI/ML · Tailwind CSS · Stripe
 
 </td>
 </tr>
@@ -171,7 +173,8 @@ daily_routine:
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║   🐍  Python (Django, DRF, FastAPI, Automation Scripts)              ║
+║   �  Torka.tech — AI Website Builder Platform                       ║
+║   �🐍  Python (Django, DRF, FastAPI, Automation Scripts)              ║
 ║   ⚛️  React Frontend Architecture & State Management                 ║
 ║   🖥️  VPS Deployment, Server Setup & Production Configs              ║
 ║   🤖  AI Matching Logic & Recommendation Systems                     ║
@@ -204,36 +207,6 @@ daily_routine:
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=salauddinx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=salauddinx&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6f00&currStreakLabel=58a6ff" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salauddinx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-
-<br/>
-
-<!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=salauddinx&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6f00&area=true&area_color=1a1b27" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=salauddinx&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)
-
-</div>
-
----
-
 ## 📈 2026 Goals & Roadmap
 
 <div align="center">
@@ -244,8 +217,8 @@ graph LR
     B --> C[⚙️ Q3 2026]
     C --> D[🌍 Q4 2026]
     
-    A --- A1[Launch AI Recruitment SaaS]
-    A --- A2[Open Beta Testing]
+    A --- A1[Launch Torka.tech AI Builder]
+    A --- A2[Launch AI Recruitment SaaS]
     B --- B1[Complete Freelance Marketplace]
     B --- B2[Integrate Payment Systems]
     C --- C1[Build Automation Agency Platform]
@@ -258,7 +231,8 @@ graph LR
 
 | Quarter | Goal | Status |
 |---------|------|--------|
-| 🚀 **Q1** | Launch AI Recruitment SaaS to production | 🟡 In Progress |
+| 🚀 **Q1** | Launch Torka.tech AI Website Builder | 🟡 In Progress |
+| 🤖 **Q1** | Launch AI Recruitment SaaS to production | 🟡 In Progress |
 | 🛒 **Q2** | Complete & deploy Freelance Marketplace | 🔵 Planning |
 | ⚙️ **Q3** | Build Automation-first Agency Systems | 🔵 Planning |
 | 🌍 **Q4** | Scale globally & contribute to Open Source | 🔵 Planning |
@@ -286,6 +260,7 @@ graph LR
 
 <div align="center">
 
+[![Torka Tech](https://img.shields.io/badge/🚀_Torka.tech-AI%20Website%20Builder-ff6f00?style=for-the-badge)](https://torka.tech)
 [![Website](https://img.shields.io/badge/🌐_Website-salauddin.co.uk-0d47a1?style=for-the-badge)](https://salauddin.co.uk)
 [![Email](https://img.shields.io/badge/📧_Email-info@salauddin.co.uk-EA4335?style=for-the-badge)](mailto:info@salauddin.co.uk)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-salauddinx-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/salauddinx/)
@@ -298,66 +273,6 @@ graph LR
 <br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Build%20systems%2C%20not%20just%20websites.&author=Muhammad%20Sala%20Uddin" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<!-- ⚠️ To enable the snake animation, add the GitHub Action workflow below to your profile repo -->
-<!-- Create: .github/workflows/snake.yml in your salauddinx/salauddinx repo -->
-<!-- Then the snake SVG will auto-generate at the path below -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salauddinx/salauddinx/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salauddinx/salauddinx/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/salauddinx/salauddinx/output/github-snake-dark.svg" />
-</picture>
-
-<details>
-<summary>📋 <b>Click here</b> — Setup instructions for the snake animation</summary>
-<br/>
-
-Create the file `.github/workflows/snake.yml` in your **salauddinx/salauddinx** repo with:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *" # runs every 12 hours
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: salauddinx
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions** tab → **Generate Snake** → **Run workflow** to trigger it the first time.
-
-</details>
 
 </div>
 
