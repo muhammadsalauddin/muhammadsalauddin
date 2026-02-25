@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d47a1&height=220&section=header&text=Muhammad%20Sala%20Uddin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20%40%20Torka%20Tech%20%7C%20AI%20System%20Builder%20%7C%20SaaS%20Architect&descSize=18&descAlignY=55&descColor=58a6ff" width="100%" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9A%80+Founder+%40+Torka+Tech+%E2%80%94+AI+Website+Builder;%F0%9F%A4%96+Building+AI-Powered+SaaS+Products;%E2%9A%99%EF%B8%8F+Automating+Everything+That+Can+Be+Automated;%F0%9F%8E%B5+Code+%2B+Creativity+%3D+Digital+Ecosystems" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9A%80+Founder+%40+Torka+Tech+%E2%80%94+AI+Website+Builder;%F0%9F%A4%96+Building+AI-Powered+SaaS+Products" alt="Typing SVG" /></a>
 
 <!-- Profile Badges -->
 <br/>
